@@ -1,2 +1,2 @@
 name1= 'Hello'
-Print(name1)
+print(name1)
